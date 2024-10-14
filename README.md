@@ -1,5 +1,5 @@
 # Acknowledgements
-The project is an English version of [MendelRookie](https://github.com/TullyMonster/MendelRookie). 
+The project is an English version of [MendelRookie](https://github.com/TullyMonster/MendelRookie).      
 The project is indebted to the open-source community and all the contributors to the open-source code libraries that the algorithm implementation has been built on.
 
 # MendelRookie_English
