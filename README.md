@@ -183,7 +183,7 @@ loaded via a namespace (and not attached):
 ```
 
 </details>
->>>>>>> c0dc0e5 (first commit)
+
 
 # Acknowledgements   
 The project is an English version of [MendelRookie](https://github.com/TullyMonster/MendelRookie). We are deeply appreciative of the open-source ethos that [TullyMonster](https://github.com/TullyMonster) and his team have exemplified. Their willingness to share their valuable scripts and tutorials not only fosters a collaborative environment but also accelerates scientific progress by making cutting-edge methods accessible to a broader audience. This spirit of generosity and commitment to knowledge sharing is truly commendable and has undoubtedly enriched the research community. We are inspired by their dedication to promoting transparency and collaboration, which are cornerstones of the open-source movement. Their work serves as a beacon for others to follow, encouraging a culture where innovation thrives on the free exchange of ideas and resources.
@@ -193,3 +193,4 @@ We have made minor refinements to the project code by [TullyMonster](https://git
 - corresponding author: wangweimin@lzu.edu.cn
 - First author: zhangyukun.lzu@foxmail.com
 - Tencent QQ group: 599070608 (Group Name: Sheep MR)
+>>>>>>> c0dc0e5 (first commit)
