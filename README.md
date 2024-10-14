@@ -1,7 +1,6 @@
-# Acknowledgements
-Using this project, we executed a Mendelian randomisation scheme analysis of rumen microbial taxa and fat deposition traits in 1150 sheep, and the associated manuscript is under submission at [npj Biofilms and Microbiomes](https://www.nature.com/npjbiofilms/). We thank the editor and reviewers for their insights.               
-The project is an English version of [MendelRookie](https://github.com/TullyMonster/MendelRookie).          
-We would like to acknowledge the [TullyMonster](https://github.com/TullyMonster) team for the publicly available data.
+# Acknowledgements              
+We would like to acknowledge the [TullyMonster](https://github.com/TullyMonster) team for the publicly available data. The project is an English version of [MendelRookie](https://github.com/TullyMonster/MendelRookie).   
+Using this project, we executed a Mendelian randomisation scheme analysis of rumen microbial taxa and fat deposition traits in 1150 sheep, and the associated manuscript is under submission at [npj Biofilms and Microbiomes](https://www.nature.com/npjbiofilms/). We thank the editor and reviewers for their insights. 
 
 # MendelRookie_English
 
