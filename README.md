@@ -189,4 +189,3 @@ We have made minor refinements to the project code by [TullyMonster](https://git
 - corresponding author: wangweimin@lzu.edu.cn
 - First author: zhangyukun.lzu@foxmail.com
 - Tencent QQ group: 599070608 (Group Name: Sheep MR)
->>>>>>> c0dc0e5 (first commit)
