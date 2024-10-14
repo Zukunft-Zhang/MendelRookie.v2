@@ -1,9 +1,4 @@
-# Acknowledgements              
-We would like to acknowledge the [TullyMonster](https://github.com/TullyMonster) team for the publicly available data. The project is an English version of [MendelRookie](https://github.com/TullyMonster/MendelRookie).   
-Using this project, we executed a Mendelian randomisation scheme analysis of rumen microbial taxa and fat deposition traits in 1150 sheep, and the associated manuscript is under submission at [npj Biofilms and Microbiomes](https://www.nature.com/npjbiofilms/). We thank the editor and reviewers for their insights. 
-
-# MendelRookie_English
-
+# Mendelian randomisation analysis (MR)
 The basic principle of Mendelian Randomization (MR) is:
 Based on the results of the GWAS, randomly assigned genetic variants (i.e. SNPs) were introduced as a randomisation tool (instrumental variable (IV)) in place of exposure factors.
 
@@ -189,3 +184,12 @@ loaded via a namespace (and not attached):
 
 </details>
 >>>>>>> c0dc0e5 (first commit)
+
+# Acknowledgements   
+The project is an English version of [MendelRookie](https://github.com/TullyMonster/MendelRookie). We are deeply appreciative of the open-source ethos that [TullyMonster](https://github.com/TullyMonster) and his team have exemplified. Their willingness to share their valuable scripts and tutorials not only fosters a collaborative environment but also accelerates scientific progress by making cutting-edge methods accessible to a broader audience. This spirit of generosity and commitment to knowledge sharing is truly commendable and has undoubtedly enriched the research community. We are inspired by their dedication to promoting transparency and collaboration, which are cornerstones of the open-source movement. Their work serves as a beacon for others to follow, encouraging a culture where innovation thrives on the free exchange of ideas and resources.
+
+# Contact Us    
+We have made minor refinements to the project code by [TullyMonster](https://github.com/TullyMonster) , which now enables a more precise analysis of the potential causal relationships between the rumen microbial communities and fat deposition phenotypes in 1150 sheep. This study is currently being submitted to [npj Biofilms and Microbiomes](https://www.nature.com/npjbiofilms/). If you are intrigued by this research, we cordially invite you to contact us to obtain the updated code. We are very keen on sharing our code resources to encourage open communication and collaboration within our community.
+- corresponding author: wangweimin@lzu.edu.cn
+- First author: zhangyukun.lzu@foxmail.com
+- Tencent QQ group: 599070608 (Group Name: Sheep MR)
