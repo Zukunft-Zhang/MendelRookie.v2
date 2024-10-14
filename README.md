@@ -46,7 +46,6 @@ However, if you want to specify the location of the PLINK program, you can get i
 
 ## Session Information
 
-<details>
 
 ```
 R version 4.3.3 (2024-02-29 ucrt)
@@ -181,9 +180,6 @@ loaded via a namespace (and not attached):
 [119] broom_1.0.5              memoise_2.0.1           
 [121] DEoptimR_1.1-3           bit_4.0.5
 ```
-
-</details>
-
 
 # Acknowledgements   
 The project is an English version of [MendelRookie](https://github.com/TullyMonster/MendelRookie). We are deeply appreciative of the open-source ethos that [TullyMonster](https://github.com/TullyMonster) and his team have exemplified. Their willingness to share their valuable scripts and tutorials not only fosters a collaborative environment but also accelerates scientific progress by making cutting-edge methods accessible to a broader audience. This spirit of generosity and commitment to knowledge sharing is truly commendable and has undoubtedly enriched the research community. We are inspired by their dedication to promoting transparency and collaboration, which are cornerstones of the open-source movement. Their work serves as a beacon for others to follow, encouraging a culture where innovation thrives on the free exchange of ideas and resources.
