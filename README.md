@@ -1,6 +1,7 @@
 # Acknowledgements
-The project is an English version of [MendelRookie](https://github.com/TullyMonster/MendelRookie).      
-The project is indebted to the open-source community and all the contributors to the open-source code libraries that the algorithm implementation has been built on.
+Using this project, we executed a Mendelian randomisation scheme analysis of rumen microbial taxa and fat deposition traits in 1150 sheep, and the associated manuscript is under submission at [npj Biofilms and Microbiomes](https://www.nature.com/npjbiofilms/). We thank the editor and reviewers for their insights.               
+The project is an English version of [MendelRookie](https://github.com/TullyMonster/MendelRookie).          
+We would like to acknowledge the [TullyMonster](https://github.com/TullyMonster) team for the publicly available data.
 
 # MendelRookie_English
 
