@@ -186,7 +186,7 @@ The project is an English version of [MendelRookie](https://github.com/TullyMons
 
 # Contact Us    
 We have made minor refinements to the project code by [TullyMonster](https://github.com/TullyMonster) , which now enables a more precise analysis of the potential causal relationships between the rumen microbial communities and fat deposition phenotypes in 1150 sheep. This study is currently being submitted to [npj Biofilms and Microbiomes](https://www.nature.com/npjbiofilms/). 
-If you are interested in this research or have any questions, we cordially invite you to get in touch with us. We are extremely enthusiastic about sharing our data and code resources to foster open communication and collaboration within our community. Additionally, to facilitate smooth interaction, we have established a Tencent QQ group named "Rumen microbiome-host interactions in sheep" and look forward to engaging in in-depth discussions with you.
+If you are interested in this research or have any questions, we cordially invite you to get in touch with us. We are extremely enthusiastic about sharing our data and code resources to foster open communication and collaboration within our community. Additionally, to facilitate smooth interaction, we have established a Tencent QQ group named "HandsomeSheepMicrobiome" and look forward to engaging in in-depth discussions with you.
 - corresponding author: wangweimin@lzu.edu.cn
 - First author: zhangyukun.lzu@foxmail.com
-- Tencent QQ group: 599070608 (Group Name: Rumen microbiome-host interactions in sheep)
+- Tencent QQ group: 599070608 (Group Name: HandsomeSheepMicrobiome)
